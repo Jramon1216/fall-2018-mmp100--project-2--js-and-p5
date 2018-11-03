@@ -5,7 +5,9 @@ function setup(){
 
 
 //horn
-		arc(375, 288)
+strokeWeight(4);
+stroke(51);
+rect(20, 20, 60, 60);
 //head
 //ears
 //eyes
