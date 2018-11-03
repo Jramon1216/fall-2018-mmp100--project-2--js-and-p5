@@ -5,7 +5,7 @@ function setup(){
 
 
 //horn
-		arc(375, 288, 70, 70, PI);
+		arc(375, 288)
 //head
 //ears
 //eyes
